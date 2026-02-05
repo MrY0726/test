@@ -1,0 +1,1 @@
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:135 There was an error managing MicrosoftEdge (error sending request for url (https://msedgedriver.azureedge.net/LATEST_RELEASE_144_WINDOWS): error trying to connect: tls handshake eof); using driver found in the cache
